@@ -80,3 +80,7 @@ li, input[type=submit]{
 	bottom: 5px;
 	border: 1px rgb(66, 133, 244)
 }
+a{
+	color: inherit;
+	text-decoration: none;
+}
