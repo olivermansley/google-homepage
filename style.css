@@ -69,6 +69,17 @@ button{
 li, input[type=submit]{
 	color: rgb(95, 99, 104);
 }
+searchbar{
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px #f2f2f2 solid;
+	width: 45em;
+	height: 3em;
+	outline: none;
+}
+searchbar.hover{
+	border: 2px rgb(220, 220, 220) solid;
+}
 
 #signin {
 	background-color: rgb(66, 133, 244);
